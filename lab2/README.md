@@ -1,4 +1,4 @@
-# Lab 3: Investigating Process Lifecycles and OS Interaction
+# Lab 2: Investigating Process Lifecycles and OS Interaction
 
 ## 📌 Overview
 
@@ -9,6 +9,19 @@ The practical focuses on processes, Process IDs (PID), Parent Process IDs (PPID)
 The programs are written in C and compiled using the GCC compiler in an Ubuntu Linux environment.
 
 ---
+
+# 📂 Project Structure
+
+```text
+Lab-3-Process-Lifecycles/
+│
+├── README.md
+│
+├── task1_alive.c
+├── task2_identity.c
+├── task3_exit.c
+├── task4_input.c
+└── task5_termination.c
 
 ## 🎯 Objectives
 
@@ -42,15 +55,4 @@ By completing this lab, the following concepts are demonstrated:
 
 ---
 
-# 📂 Project Structure
 
-```text
-Lab-3-Process-Lifecycles/
-│
-├── README.md
-│
-├── task1_alive.c
-├── task2_identity.c
-├── task3_exit.c
-├── task4_input.c
-└── task5_termination.c
