@@ -45,7 +45,7 @@ By completing this lab, the following concepts are demonstrated:
 
 ---
 
-## 🛠️ Technologies and Tools
+##  Technologies and Tools
 
 - **Programming Language:** C
 - **Compiler:** GCC
