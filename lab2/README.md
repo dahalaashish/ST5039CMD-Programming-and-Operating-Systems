@@ -1,6 +1,6 @@
 # Lab 2: Investigating Process Lifecycles and OS Interaction
 
-## 📌 Overview
+## Overview
 
 This lab explores how C programs interact with the Linux Operating System (OS).
 
@@ -10,7 +10,7 @@ The programs are written in C and compiled using the GCC compiler in an Ubuntu L
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 Lab-3-Process-Lifecycles/
@@ -22,6 +22,7 @@ Lab-3-Process-Lifecycles/
 ├── task3_exit.c
 ├── task4_input.c
 └── task5_termination.c
+```
 
 ## 🎯 Objectives
 
