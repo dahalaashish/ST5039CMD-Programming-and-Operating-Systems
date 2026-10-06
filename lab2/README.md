@@ -13,7 +13,7 @@ The programs are written in C and compiled using the GCC compiler in an Ubuntu L
 # Project Structure
 
 ```text
-Lab-3-Process-Lifecycles/
+Lab2
 │
 ├── README.md
 │
@@ -22,9 +22,11 @@ Lab-3-Process-Lifecycles/
 ├── task3_exit.c
 ├── task4_input.c
 └── task5_termination.c
+|
+|__ lab2.pdf
 ```
 
-## 🎯 Objectives
+## Objectives
 
 By completing this lab, the following concepts are demonstrated:
 
